@@ -1,0 +1,26 @@
+name:json-jwt 
+version:0.1
+
+Requirement
+============
+
+1. ocamlfind
+2. cryptokit
+3. json-wheel
+
+
+Installing
+==========
+
+make
+sudo make install
+
+Thread safe
+============
+
+maybe ok.
+
+Licence
+=======
+
+GPL

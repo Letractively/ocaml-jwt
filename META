@@ -1,0 +1,6 @@
+name="jwt-ocaml"
+version = "0.1"
+description = "ocaml jwt encoder decoder"
+requires = "str cryptokit json-wheel"
+archive(byte) = "jwt.cma"
+archive(native) = "jwt.cmxa"
